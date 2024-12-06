@@ -34,6 +34,16 @@ A check is included to handle division by zero, which is not allowed.
 
 Close Scanner:
 
+
+HERE IS THE OUTPUT 
+Welcome to the Simple Calculator!
+Enter first number: 10
+Enter an operator (+, -, *, /): +
+Enter second number: 5
+Result: 10.0 + 5.0 = 15.0
+Thank you for using the Simple Calculator. Goodbye!
+
+
 The scanner.close() method is called to close the scanner and free up resources.
 
 Display Exit Message:
